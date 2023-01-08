@@ -7,8 +7,8 @@ https://blogs.embarcadero.com/
 
 ![](windows11.png)
 
-![](windows11service.png)
-
 ![](windows11serviceinstallation.png)
+
+![](windows11service.png)
 
 ![](windowsservices.png)
