@@ -9,6 +9,7 @@ type
   TBackgroundThread = class(TThread)
   private
     FPaused: Boolean;
+    // increase capabilities here
     // FTerminated: Boolean;
     // FOnTerminate: TNotifyEvent;
   protected
