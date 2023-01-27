@@ -1,5 +1,5 @@
 # Windows-11-Service-Demo---TService
-https://blogs.embarcadero.com/
+To accompany the blog post found here: https://blogs.embarcadero.com/developing-windows-services-in-windows-11-best-practices-and-tools/
 
 
 - Go to the folder and open in terminal (the executable file should be configured to run as an administrator privileges)
